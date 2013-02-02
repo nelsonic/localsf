@@ -44,6 +44,7 @@ familiar/friendly UI to non-technical users.
 
 ## Getting Started
 
+Everything that you need to get up and running is ...
 
 - - -
 
@@ -55,9 +56,10 @@ If you have *Zero* development experience
 ( that's **totally fine** 
 [BTW](http://www.urbandictionary.com/define.php?term=btw) ), 
 a "Config" file allows you to put things like settings
-and passwords in a file that you can then easily change centrally.
+and passwords in a file that you can then easily change **centrally**
+( and in the case of a *Public Project*, *hide* sensitive info from everyone! )
 
-In Ruby the standard way of organising Config files is to use 
+In Ruby the *standard* way of organising Config files is to use 
 [YAML](http://en.wikipedia.org/wiki/YAML). If you have
 never seen a **.yml** file before I suggest you read a quick primer on it 
 e.g. [Xavier Shay's YAML Tuturial](http://rhnh.net/2011/01/31/yaml-tutorial)
