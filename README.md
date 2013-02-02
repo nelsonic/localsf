@@ -1,7 +1,7 @@
 LocalSF
 =======
 
-Need to Run Queries on your Salesforce Data without being limited to Force.com SOQL?
+Need to run Queries on your Salesforce Data without being *limited* by Force.com SOQL?
 **Done.**
 
 If you're *sick* of not being able to do **Nested Semi-Joins** in your SOQL Queries 
@@ -9,7 +9,7 @@ or getting *Time-outs* when querying **"large" datasets**, let me *soothe your p
 
 - - -
 
-#### Pre-Requisites
+### Pre-Requisites
 
 The only **pre-requisites** for using this project are:
 
@@ -30,5 +30,19 @@ and its easy for beginners to get started and find example queries online.
 
 - - -
 
+### Getting Started
 
+
+- - -
+
+### Development Log ( [Stream of Consciousness](http://en.wikipedia.org/wiki/Stream_of_consciousness_%28narrative_mode%29) )
+
+
+
+### Notes
+
+
+#### Basic Git Commands Crib Sheet:
+ 
+    git push git@github.com:nelsonic/localsf.git master
 
