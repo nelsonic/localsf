@@ -9,11 +9,11 @@ or getting *Time-outs* when querying **"large" datasets**, let me *soothe your p
 
 The only **pre-requisites** for using this project are:
 
-- (**Basic**) Knowledge of Salesforce.com Admin (enough to set up Remote Access on your Org)
-- (**Basic**) Google Drive/Docs Spreadsheet Skills (To specify which SF Objects you want to *"localise"*)
-- (**Basic**) MySQL Database Setup and Query Skills (create your database and run any queries you want!)
-- (**Basic**) Command Line skills (Terminal) - if you don't have experience, don't worry, you can/will learn!
-- (**Basic**) Ruby (not rails) Knowledge to edit a configuration file and run a script.
+- ( **Basic** ) Knowledge of Salesforce.com Admin (enough to set up Remote Access on your Org)
+- ( **Basic** ) Google Drive/Docs Spreadsheet Skills (To specify which SF Objects you want to *"localise"*)
+- ( **Basic** ) MySQL Database Setup and Query Skills (create your database and run any queries you want!)
+- ( **Basic** ) Command Line skills (Terminal) - if you don't have experience, don't worry, you can/will learn!
+- ( **Basic** ) Ruby (not rails) Knowledge to edit a configuration file and run a script.
 
 **Why Ruby?** ... Its simple for *beginners* to understand and works well for large(ish) data sets.
 
