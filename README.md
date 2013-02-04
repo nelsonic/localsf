@@ -64,7 +64,7 @@ In Ruby the *standard* way of organising Config files is to use
 never seen a **.yml** file before I suggest you read a quick primer on it 
 e.g. [Xavier Shay's YAML Tuturial](http://rhnh.net/2011/01/31/yaml-tutorial)
 
-I'm going to build up a **/examples** folder in this project so anyone 
+I'm going to build up an **/examples** folder in this project so anyone 
 can learn what's going on by following
 by following a few basic examples.
 
