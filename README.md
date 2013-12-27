@@ -1,5 +1,24 @@
-LocalSF  - (On Hiatus Till I find more time...!)
+Local SalesForce [On Hold]
 =======
+
+We built a Salesforce data mirror while I was at Groupon.
+It was built in Node.js and stored data in a Local MySQL Database 
+so we could run queries much faster and do nested joins for our BI.
+
+Sadly it was close-source (kept internal to Groupon). :-(
+I briefly considered re-building it after I left.
+
+But have moved away from Salesforce towards more open platforms...
+And since Salesforce updates its API every 3 months 
+its a bit of a moving target.
+
+If anyone ever requests a better Salesforce query interface,
+I can russle one up quite quickly. But I suggest you try using:
+
+- https://github.com/kevinohara80/nforce
+- https://github.com/stomita/node-salesforce
+
+- - -
 
 Need to run Queries on your Salesforce Data 
 without being *limited* by Force.com SOQL?
