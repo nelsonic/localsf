@@ -67,7 +67,7 @@ Everything that you need to get up and running is ...
 
 - - -
 
-## Development Log ( [Stream of Consciousness](http://en.wikipedia.org/wiki/Stream_of_consciousness_%28narrative_mode%29) )
+## Development Log
 
 ### Configuration File
 
@@ -86,15 +86,3 @@ e.g. [Xavier Shay's YAML Tuturial](http://rhnh.net/2011/01/31/yaml-tutorial)
 I'm going to build up an **/examples** folder in this project so anyone 
 can learn what's going on by following
 by following a few basic examples.
-
-
-
-- - -
-
-## Notes
-
-
-### Basic Git Commands Crib Sheet:
- 
-    git push git@github.com:nelsonic/localsf.git master
-
